@@ -10,11 +10,11 @@ h3 {
   font-family: Arial
 }
 p {
-  font-size: 14px;
+  font-size: 13.5px;
   font-family: Arial
 }
 div {
-  background-color: blue;
+  background-color: rgb(54, 54, 217);
   text-align: right;
 }
 th, td {
